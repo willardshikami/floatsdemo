@@ -22,10 +22,5 @@ footer{
 
 section{
     float: left;
-    width: 63%;
-}
-
-aside{
-    float: right;
     width: 30%;
 }
